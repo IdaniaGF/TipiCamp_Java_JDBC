@@ -25,16 +25,16 @@
 
 ## 🖥️**Technologies**
 
-#### 🔹 Java 
-          * JDBC   
-          * JCalendar
-          * JSwing
-          * Jsql
-          * C3P0
-          * Maven
-#### 🔹 MySQL
-#### 🔹 Eclipse
-#### 🔹 WindowBuilder
+🔹 Java 
+     * JDBC   
+     * JCalendar
+     * JSwing
+     * Jsql
+     * C3P0
+     * Maven
+ 🔹 MySQL
+ 🔹 Eclipse
+ 🔹 WindowBuilder
 
 ## 📚** Applied knowledge:**
 * Object Oriented Programming
@@ -54,7 +54,7 @@
 
 ## 📹**Demo**
 
-https://www.youtube.com/watch?v=NkG383JUv2M 
+[https://www.youtube.com/watch?v=NkG383JUv2M ](https://youtu.be/P5qVf0ty8l4)
 
 ## ✅**Project status and road map**
 Unfortunately, due to time constraints, there were some extra details that I would have liked to add, but I will surely do so in the future:
