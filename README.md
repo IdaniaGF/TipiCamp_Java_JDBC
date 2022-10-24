@@ -26,12 +26,12 @@
 ## 🖥️**Technologies**
 
 #### 🔹 Java 
-###### * JDBC
-###### * JCalendar
-###### * JSwing
-###### * Jsql
-###### * C3P0
-###### * Maven
+          * JDBC   
+          * JCalendar
+          * JSwing
+          * Jsql
+          * C3P0
+          * Maven
 #### 🔹 MySQL
 #### 🔹 Eclipse
 #### 🔹 WindowBuilder
@@ -42,9 +42,6 @@
 * JDBC
 * Collections
 * Exceptions 
-
-#### 🔹 ¡Visita la página del desafío haciendo clic aquí! [Link do Challenge](https://www.aluracursos.com/challenges/oracle-one-java) 📃
-</br>
 
 ## 🖥️ Tecnologías Utilizadas:
 
@@ -68,11 +65,9 @@ Unfortunately, due to time constraints, there were some extra details that I wou
 * add payment system
 * add space management
 * a more secure authentication system
----
 
 ## 🤝**Contributing**
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
----
 
 ## 🙏**Authors and acknowledgment**
 I developed this project by myself. However, I thank my family and my partner who always support me on this new path. I also thank Oracle and Alura for their training.
